@@ -105,6 +105,8 @@ function slides({container, slide, nextArrow, prevArrow, totalCounter, currentCo
             getDiv.append(createEl);  
             points.push(createEl) ;    
         }
+        
+        points[slideIndex-1].style.opacity = '1';
     }
     createPoints();
     
