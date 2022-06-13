@@ -6,6 +6,6 @@ The main functions are called in js.js
 
 In project use modules. Modules built with webpack. Babel are also used.
 
-The tabs module was created for pretty display of block "Tabs".
+
 
 
